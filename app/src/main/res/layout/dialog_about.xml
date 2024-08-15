@@ -36,3 +36,4 @@
             android:src="@drawable/ic_close_24"
             android:padding="10dp"/>
     </LinearLayout>
+</LinearLayout>
