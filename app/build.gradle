@@ -5,7 +5,7 @@ android {
     compileSdkVersion 33
 
     defaultConfig {
-        applicationId 'com.jxjson.tvbox.osc'
+        applicationId 'com.jxjson.waptvbox.osc'
         minSdkVersion 24
         targetSdkVersion 30
         versionCode 31
